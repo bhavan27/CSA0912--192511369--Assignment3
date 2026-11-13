@@ -1,0 +1,3 @@
+# Task 05 – Race Conditions and Synchronization
+Compile/run: `javac -d Task05/out Task05/src/SeatBookingDemo.java` then `java -cp Task05/out SeatBookingDemo`.
+A latch-controlled unsynchronized check-then-book makes the race reproducible. Synchronized method and synchronized block versions protect the same critical section and should sell exactly 10 unique seats in the 10-seat test. The PDF separately asks for a 10,000-booking timing comparison; add timings from your local machine before submission.

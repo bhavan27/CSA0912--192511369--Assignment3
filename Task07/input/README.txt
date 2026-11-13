@@ -1,0 +1,1 @@
+The Java program generates 10,000 score files at runtime in this folder. Every 1,000th file is omitted (missing input); selected other files contain deliberately corrupt content. This keeps the ZIP compact while making the workload reproducible.

@@ -1,0 +1,4 @@
+Opposite lock-order deadlock detected=true
+Ordered-lock balances=950,1050
+Sum of tokens collected: 210 (expected 210)
+ArrayBlockingQueue take=7

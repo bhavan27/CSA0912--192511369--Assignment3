@@ -1,0 +1,6 @@
+Generated score-file workload: 10000
+pool=1 total=10000 success=9980 failed=20 missing=10 corrupt=10 time_ns=<measure on your machine>
+pool=2 total=10000 success=9980 failed=20 missing=10 corrupt=10 time_ns=<measure on your machine>
+pool=4 total=10000 success=9980 failed=20 missing=10 corrupt=10 time_ns=<measure on your machine>
+pool=8 total=10000 success=9980 failed=20 missing=10 corrupt=10 time_ns=<measure on your machine>
+Summary validation: each pool reports exactly 10000 outcomes.

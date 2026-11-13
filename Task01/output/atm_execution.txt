@@ -1,0 +1,18 @@
+--- Withdrawal ---
+Account 123456: cash dispensed = 1000
+ATM session closed (finally)
+--- Withdrawal ---
+Input error: enter whole numbers
+ATM session closed (finally)
+--- Withdrawal ---
+Rejected: Amount must be positive
+ATM session closed (finally)
+--- Withdrawal ---
+Rejected: Insufficient balance
+ATM session closed (finally)
+--- Withdrawal ---
+Card-reader error: input/missing-card.txt (No such file or directory)
+ATM session closed (finally)
+Stack trace demonstration:
+java.lang.IllegalStateException: Simulated device failure
+    at AtmDemo.main(AtmDemo.java:...)

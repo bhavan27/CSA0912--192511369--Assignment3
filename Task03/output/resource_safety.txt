@@ -1,0 +1,11 @@
+MANUAL CLOSE
+Read store-A
+Failure: Corrupt input: store-B
+Closed store-B
+Open after manual close: 1
+TRY-WITH-RESOURCES
+Read store-A
+Closed store-B
+Closed store-A
+Failure: Corrupt input: store-B
+Open after try-with-resources: 0

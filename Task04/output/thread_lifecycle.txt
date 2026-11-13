@@ -1,0 +1,26 @@
+Thread station 1 scanned 5 scripts
+Thread station 2 scanned 5 scripts
+Thread station 3 scanned 5 scripts
+Thread station 4 scanned 5 scripts
+All Thread stations joined
+Runnable station 1 scanned 5 scripts
+Runnable station 2 scanned 5 scripts
+Runnable station 3 scanned 5 scripts
+Runnable station 4 scanned 5 scripts
+All Runnable stations joined
+Before start isAlive=false
+Probe on Thread-8
+After join isAlive=false
+Direct run on main
+Finish-order trials (scheduler-dependent):
+Run 1: [2, 1, 3, 4]
+Run 2: [1, 3, 2, 4]
+Run 3: [3, 1, 4, 2]
+Run 4: [2, 4, 1, 3]
+Run 5: [1, 2, 4, 3]
+Run 6: [4, 1, 3, 2]
+Run 7: [2, 3, 1, 4]
+Run 8: [1, 4, 2, 3]
+Run 9: [3, 2, 4, 1]
+Run 10: [2, 1, 4, 3]
+Executor alternative total=50

@@ -1,0 +1,3 @@
+Unsafe controlled race bookings on one seat=20
+Synchronized method seats sold=10
+Synchronized block seats sold=10

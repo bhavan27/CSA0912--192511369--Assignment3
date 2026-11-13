@@ -1,0 +1,1 @@
+store-A: valid; store-B: corrupt and throws IOException during read.

@@ -1,0 +1,3 @@
+# Task 02 – User-Defined Exceptions and Propagation
+Compile/run: `javac -d Task02/out Task02/src/StorageDemo.java` then `java -cp Task02/out StorageDemo`.
+Demonstrates checked custom exceptions, controller/service/storage propagation, `throw`, `throws`, exception chaining and `getCause()`. Scenarios are listed in `input/submission-scenarios.csv`. Output files are illustrative until regenerated on your computer.

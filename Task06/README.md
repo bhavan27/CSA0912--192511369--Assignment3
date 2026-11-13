@@ -1,0 +1,3 @@
+# Task 06 – Deadlock and Inter-Thread Communication
+Compile/run: `javac -d Task06/out Task06/src/ConcurrencyProblemsDemo.java` then `java -cp Task06/out ConcurrencyProblemsDemo`.
+Demonstrates opposite-order deadlock with daemon threads and timeout detection, consistent wallet lock ordering, bounded producer-consumer using `while`, `wait()` and `notifyAll()`, plus ArrayBlockingQueue alternative. Daemon threads ensure the deliberate deadlock does not prevent process exit.

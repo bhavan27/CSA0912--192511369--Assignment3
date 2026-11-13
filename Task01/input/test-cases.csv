@@ -1,0 +1,6 @@
+case,account,amount,card_file
+valid,123456,1000,card-reader.txt
+non_numeric,ABC,1000,card-reader.txt
+negative_amount,123456,-50,card-reader.txt
+insufficient_balance,123456,7000,card-reader.txt
+missing_card,123456,1000,missing-card.txt
