@@ -1,9 +1,9 @@
 # CSA09 – Programming in Java – Assignment 3 (CO3)
 
-**Student:** V. C. Bhavan Bairav  
-**Register Number:** 192511369  
-**Course:** Programming in Java – CSA0912 (CO2)  
-**Assignment:** Assignment 3 – 50 Marks
+- **Student:** V C Bhavan Bairav  
+- **Register Number:** 192511369  
+- **Course:** Programming in Java – CSA0912 (CO2)  
+- **Assignment:** Assignment 3 – 50 Marks
 
 This repository contains my Java Assignment 3, covering exception handling, resource management and multithreading. It is organised into seven task folders based on the questions in the assignment PDF.
 
